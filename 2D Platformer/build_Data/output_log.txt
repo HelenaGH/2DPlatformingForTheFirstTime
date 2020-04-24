@@ -24,13 +24,13 @@ desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+UnloadTime: 1.136000 ms
+Gašenje!
  
-(Filename:  Line: 1743)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-UnloadTime: 1.151900 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 5e74 -> priority: 1 
-  Thread -> id: 47f4 -> priority: 1 
-  Thread -> id: 4d50 -> priority: 1 
-  Thread -> id: 5fd8 -> priority: 1 
+  Thread -> id: 2e98 -> priority: 1 
+  Thread -> id: 9c4 -> priority: 1 
+  Thread -> id: 50bc -> priority: 1 
+  Thread -> id: 5828 -> priority: 1 
